@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Resources)(type KiCad)(uri ${KIPRJMOD}/Resources)(options "")(descr ""))
+  (lib (name eZ80SBCrev0)(type KiCad)(uri ${KIPRJMOD}/eZ80SBCrev0.pretty)(options "")(descr ""))
+)
