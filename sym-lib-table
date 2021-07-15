@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name CPU_Zilog)(type Legacy)(uri ${KIPRJMOD}/Resources/CPU_Zilog.lib)(options "")(descr ""))
+  (lib (name Memory_Flash)(type Legacy)(uri ${KIPRJMOD}/Resources/Memory_Flash.lib)(options "")(descr ""))
+  (lib (name Memory_RAM)(type Legacy)(uri ${KIPRJMOD}/Resources/Memory_RAM.lib)(options "")(descr ""))
+  (lib (name Oscillator)(type Legacy)(uri ${KIPRJMOD}/Resources/Oscillator.lib)(options "")(descr ""))
+  (lib (name Regulator_Switching)(type Legacy)(uri ${KIPRJMOD}/Resources/Regulator_Switching.lib)(options "")(descr ""))
+  (lib (name USB4105-GF-A)(type Legacy)(uri ${KIPRJMOD}/Resources/USB4105-GF-A/USB4105-GF-A.lib)(options "")(descr ""))
+)
